@@ -1,0 +1,169 @@
+body{
+    background: white;
+}
+#CalcBorder{
+    background: linear-gradient(white,grey,white);
+    border: rgb(107, 107, 107) 5px solid;
+    width: 400px;
+    height: 600px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.display{
+    font-size: 52px;
+    text-align: right;
+    position: relative;
+    top: 5px;
+    left: 13px;
+    width: 370px;
+    height: 60px;
+    background: lightblue;
+    border: gray 2px solid;
+    width: 370px;
+    height: 60px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.blueBtn{
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    background: lightskyblue;
+    border: gray 2px solid;
+    width: 65px;
+    height: 65px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.greenBtn{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: 100px;
+    top: -700px;
+    width: 65px;
+    height: 65px;
+    background: rgb(22, 223, 22);
+    border: gray 2px solid;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.redBtn{
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    left: 45px;
+    top: -142px;
+    width: 65px;
+    height: 65px;
+    background: coral;
+    border: red 2px solid;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#equals{
+    top: 320px;
+    left: 115px;
+}
+#plus{
+    top: 320px;
+    left: 104px;
+}
+#minus{
+    top: 235px;
+    left: -33px;
+}
+#divisor{
+    top: 170px;
+    left: 323px;
+}
+#multiply{
+    top: 85px;
+    left: 173px;
+}
+#percent{
+    top: 85px;
+    left: 183px;
+}
+#divide{
+    top: 5px;
+    left: 35px;
+}
+#root{
+    top: 5px;
+    left: 45px;
+}
+#memMinus{
+    top: -145px;
+    left: 35px;
+}
+#memAdd{
+    top: -145px;
+    left: 25px;
+}
+#memRecall{
+    top: -145px;
+    left: 15px;
+}
+#memClear{
+    top: -145px;
+    left: 5px;
+}
+#nine{
+    top: 75px;
+    left: 95px;
+}
+#six{
+    top: 220px;
+    left: -43px;
+}
+#three{
+    top: 305px;
+    left: 165px;
+}
+#inverse{
+    top: 455px;
+    left: 28px;
+}
+#eight{
+    top: 75px;
+    left: 83px;
+}
+#five{
+    top: 220px;
+    left: -55px;
+}
+#two{
+    top: 370px;
+    left: -193px;
+}
+#dot{
+    top: 455px;
+    left: 15px;
+}
+#seven{
+    top: 140px;
+    left: -272px;
+}
+#four{
+    top: 220px;
+    left: -65px;
+}
+#one{
+    top: 370px;
+    left: -202px;
+}
+#zero{
+    top: 455px;
+    left: 5px;
+}
